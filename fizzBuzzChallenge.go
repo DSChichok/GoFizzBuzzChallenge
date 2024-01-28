@@ -1,3 +1,7 @@
+// Author: CChico
+// Date  : 2024 27 JAN
+// Desc  : FizzBuzz exercise with intent to learn GO
+
 package main
 import ("fmt")
 
